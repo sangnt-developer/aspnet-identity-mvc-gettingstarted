@@ -13,7 +13,7 @@ This is a project for getting started with ASP.NET Core Identity that comprise *
 ## Projects
 
 ### EmailService (class library)
-The project is built to send email when processing "forgot password",... functionalities. We use NetCore.MailKit
+The project is built to send email when processing "forgot password",... functionalities. We use NetCore.MailKit library to send mail on SMTP.
 
 ### GettingStarted ASPNET IDENTITY (gettingstarted-aspnet-identity)
 The project is a main project to build main functionalities as Register, Login, Logout, Forgot Password,...
@@ -24,6 +24,7 @@ The project is a main project to build main functionalities as Register, Login, 
 **Step 2** : Install .NET SDK 3.1 or higher if any errors are noticed about that.<br/>
 **Step 3** : Press "F5" or "Ctrl + F5" on VS2019 to build and run projects. <br/>
 **Step 4** : Waiting for automatic running migrations for create Database and SeedData. After that, enjoy with the functionalities on ASP.NET Core Identity. <br/>
+**Step 5** : Done !
 
 ## Attention
 - We need to modify configuration in appsettings.json:
