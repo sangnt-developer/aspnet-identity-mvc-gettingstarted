@@ -20,10 +20,10 @@ The project is a main project to build main functionalities as Register, Login, 
 
 ## How to start ?
 
-**Step 1** : Open "gettingstarted-aspnet-identity.sln" file by Visual Studio 2019 (VS2019)
-**Step 2** : Install .NET SDK 3.1 or higher if any errors are noticed about that.
-**Step 3** : Press "F5" or "Ctrl + F5" on VS2019 to build and run projects.
-**Step 4** : Waiting for automatic running migrations for create Database and SeedData. After that, enjoy with the functionalities on ASP.NET Core Identity.
+**Step 1** : Open "gettingstarted-aspnet-identity.sln" file by Visual Studio 2019 (VS2019).<br/>
+**Step 2** : Install .NET SDK 3.1 or higher if any errors are noticed about that.<br/>
+**Step 3** : Press "F5" or "Ctrl + F5" on VS2019 to build and run projects. <br/>
+**Step 4** : Waiting for automatic running migrations for create Database and SeedData. After that, enjoy with the functionalities on ASP.NET Core Identity. <br/>
 
 ## Attention
 - We need to modify configuration in appsettings.json:
