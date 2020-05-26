@@ -1,9 +1,0 @@
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
-D:\individual-projects\gettingstarted-aspnet-identity\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
